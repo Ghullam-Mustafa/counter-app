@@ -33,7 +33,7 @@ function App() {
             <span className='fs-4' max='10' min='0'>{count}</span>
             <button onClick={addition}  className='btn btn-primary ms-5'>+</button><br/>
            
-            <button onClick={reSet} className='btn btn-danger mt-5 mx-5'>Reset</button></div>
+            {/* <button onClick={reSet} className='btn btn-danger mt-5 mx-5'>Reset</button></div> */}
         </div>
       </div>
 
